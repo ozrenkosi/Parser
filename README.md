@@ -1,7 +1,7 @@
 Parser
 ============
 
-Solution for the fourth lab at "Introduction to Theoretical Computer Science" course - Recursive descent parser
+Solution for the fourth lab at "Introduction to Theoretical Computer Science" course - Recursive descent parser.
 
     S -> aAB | bBA
     A -> bC | a
